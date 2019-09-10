@@ -1,0 +1,85 @@
+<!doctype html>
+<html>
+
+	<head>
+    
+    	<link href="../css/styles.css" rel="stylesheet" type="text/css" media="screen" >
+        <link href="https://fonts.googleapis.com/css?family=Tangerine" rel="stylesheet">
+    	
+		<!-- TemplateBeginEditable name="head" -->
+    	
+		<!-- TemplateEndEditable -->
+	
+    <meta name="keywords" content="restaurant, crumlin, dublin 12, food restaurant, student restaurant, training of chefs,">
+    <meta name="description" content="This website is about the restaurant in crumlin college that trains student and gives them first hand experience of being chefs.">
+	</head>
+    
+    <body>
+    <div id="wrapper">
+    	
+        <div id="name">
+        	<h1>Library@Crumlin</h1>
+        </div>
+        
+        <div id="topnav">
+        	<ul>
+            	<li><a href="../index.html">Welcome</a></li>
+                <li><a href="../menu.html">Menu</a></li>
+                <li><a href="../gallery.html">Gallery</a></li>
+                <li><a href="../contact.html">Contact</a></li>
+            </ul>
+        </div>
+        
+        <div id="banner">
+       	<img src="../images/photos/table.jpg" alt="picture of dinning facilities at the premises" width="896"></div>
+        
+    <div id="content">
+    <!-- TemplateBeginEditable name="content" -->
+    
+        	<h1>Main Heading on Page</h1>
+        	<p>This is the first paragraphLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
+            <img src="../images/banner/3newchef.jpg">
+            <img src="../images/banner/newchef.jpg">
+    <h2>This is another sample heading</h2>
+        <p>Thius is a whatever paragraph and whatever paLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do 					eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
+        <p>I am getting used to all this crap</p>
+            <ul>
+            	<li>John Smith</li>
+                <li>Mary Jones</li>
+                <li>Peter Green</li>
+            </ul>
+    <!-- TemplateEndEditable -->
+        </div>
+    
+        <div id="rightside">
+        	<h2>Testimonial</h2>
+            <p><blockquote>"Really enjoyed the whole experience, from visiting a prison to delicious three course meal. Lovely restaurant and excellent service. All the staff friendly and helpful"</blockquote> <span class="italic"
+>Pamela O'Neill</span></p>
+
+<p><blockquote>"The service was attentive and excellent. The food was delicious and admirably cooked ...The standard of cooking was amazing...Long may it continue and good luck to all who made the meal such an enjoyable occasion."</blockquote>  <span class="italic"
+>Brian Lough</span></p>
+
+<p><blockquote>"Our waiter was courteous and genuinely wanted to help in any way possible. The food was gorgeous. All in all far outweighed my expectations. A wonderful charity to help these boys turn their lives around. Well worth a visit."</blockquote> <span class="italic"
+>Mark Graham</span></p>
+            <img src="../images/photos/meals.jpg" alt="picture of people enjoying their meals">
+            <h2>Head Chefs</h2>
+            <ul>
+           	  <li>Rory McGrath</li>
+                <li>Mary Jones</li>
+                <li>Peter Green</li>
+                <li>Leoni Gleeson</li>
+            </ul>
+            <p>&nbsp;</p>
+        </div>
+    
+        <div id="footer">
+        	<p> &copy;2017 &#8226; All Rights Resreved &#8226; Library@Crumlin</p>
+            <p>Crumlin Road, Crumlin, Dublin 12, County Dublin, Ireland &#8226; info@crumlincollege.ie &#8226; 014540662</p>
+            <p><img src="../images/icons/f.png" width="32" height="32" alt="Facebook image" longdesc="https://www.facebook.com/officialcrumlincollege/"><img src="../images/icons/y.png" width="32" height="32" alt="Youtube image" longdesc="https://www.youtube.com/channel/UCw3_plqyFWEZ75QYF28qeJw"><img src="../images/icons/t.png" width="32" height="32" alt="Twitter image " longdesc="https://twitter.com/cdetbcdu?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"></p>
+            <p>Privacy Policy</p>
+        </div>
+        
+    </div>
+    </body>
+
+</html>
